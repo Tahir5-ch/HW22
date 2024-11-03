@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\HW22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8AF73D-8FA4-4A0F-9529-540030A8A5A6}|HW22\\HW22.csproj|c:\\users\\owner\\source\\repos\\hw22\\hw22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8AF73D-8FA4-4A0F-9529-540030A8A5A6}|HW22\\HW22.csproj|solutionrelative:hw22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\HW22\\HW22\\Program.cs",
+              "RelativeDocumentMoniker": "HW22\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\HW22\\HW22\\Program.cs",
+              "RelativeToolTip": "HW22\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:50:04.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
