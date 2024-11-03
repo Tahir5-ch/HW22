@@ -34,23 +34,10 @@
             //Console.WriteLine(count);
             #endregion
             #region T3
-            //3.Verilmiş yazının əvvəlindəki boşluqlar silinmiş bir string düzəldən proqram
-            //(Misalçün verilmiş yazı "   salam necesen?   "-dirsə yeni düzələcək string "salam necəsən?   " olmalıdır.
+            ////3.Verilmiş yazının əvvəlindəki boşluqlar silinmiş bir string düzəldən proqram
+            ////(Misalçün verilmiş yazı "   salam necesen?   "-dirsə yeni düzələcək string "salam necəsən?   " olmalıdır.
             //string a = "   salam necesen?   ";
-            //string b = string.Empty;
-            //string c = string.Empty;
-            //for(int i=0; i<a.Length; i++)
-            //{
-            //   if(a[i] != ' ')
-            //    {
-
-            //        b += a[i];
-
-
-            //    }
-
-            //}
-
+            //Console.WriteLine(a.TrimStart());
 
 
             #endregion

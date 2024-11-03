@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1379161ab1dc5abf94d6892dc40a96a0884625")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
